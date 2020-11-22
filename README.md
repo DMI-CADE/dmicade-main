@@ -1,4 +1,4 @@
-# DMICade
+# DMI-CADE
 
 [Commit Message Convention](https://github.com/DMI-CADE/dmicade-main/wiki/Commit-Message-Convention)
 
